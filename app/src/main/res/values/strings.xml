@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TravelBuddy</string>
+    <string name="start_button">Start travelling!</string>
+    <string name="save_changes">Save changes</string>
+    <string name="return_to_menu">Return to menu</string>
+
+    <string name="flights_title">Flights</string>
+    <string name="expenses_title">Expenses</string>
+    <string name="car_rental_title">Car rental</string>
+    <string name="accommodation_title">Accommodation</string>
+    <string name="travel_dest_title">Travel destinations</string>
+    <string name="food_drink_title">Food and Drinks</string>
+    <string name="info_title">Important information</string>
+    <string name="equ_list_title">Equipment list</string>
+    <string name="shopping_title">Shopping</string>
+    <string name="weather_title">Weather</string>
+    <string name="transportation_title">Transportation</string>
+    <string name="addition_title">Addition</string>
+
+    <string name="empty_section_content_placeholder">No content yet! \n Add your details here.</string>
+    <string name="fetch_section_content_error">Failed to load section content (%1$s), please try again later.</string>
+    <string name="success_save_message">New content saved.</string>
+    <string name="no_internet_message">There is no internet connection.</string>
+
+    <string name="hello_traveler">Hello traveler</string>
+    <string name="destination">Destination</string>
+    <string name="date">Date</string>
+
+</resources>
