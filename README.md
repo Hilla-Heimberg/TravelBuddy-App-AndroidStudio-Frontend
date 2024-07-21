@@ -29,7 +29,7 @@ Its architecture follows the MVVM pattern, which stands for Model, View, and Vie
 
 ![Screenshot 4](/winning.jpg)
 
-![Screenshot 5](/winning2.jpg)
+![Screenshot 5](/Winning2.jpg)
 
 ## Notes
 
